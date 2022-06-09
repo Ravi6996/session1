@@ -7,6 +7,6 @@ int main()
     printf("ravi kumar\n");
     printf("my id is b421039\n");
     printf("my branch is IT\n");
-    printf("69");
+
     return 0;
 }
